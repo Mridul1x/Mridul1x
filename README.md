@@ -62,9 +62,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Mridul1x&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul1x&layout=compact)
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 <hr/>
 
