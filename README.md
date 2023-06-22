@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mridul1x.Mridul1x" />
-
  <img width=390 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mridul1x" alt="streak stats"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
