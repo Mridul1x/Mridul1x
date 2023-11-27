@@ -44,9 +44,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
   </a>
 </p>
-
 <br/>
-<hr/>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
