@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Junior Software Developer | Angular • ASP.NET Web API • SQL Server
+ Software Developer | Angular • ASP.NET Web API • SQL Server
 </h3>
 
 <p align="center">
