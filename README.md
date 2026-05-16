@@ -1,56 +1,106 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mridul1x.Mridul1x" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahamudul+Hasan+Medul!;" />
-  </a>
+  Hi, I'm Mahamudul Hasan Medul 👋
 </h1>
-
-<h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a summer camp learning school app**
-
- 🌱 I’m currently learning **Redux, Next.js, React Native**
-
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://www.linkedin.com/in/mahamudulhasanm/)**
-
- ⚡ Fun fact **Honey never spoils, even after thousands of years**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:mridulhasannn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahamudulhasanm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://portfolio-14910.web.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
-  </a>
-</p>
-<br/>
-<hr/>
-
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  Junior Software Developer | Angular • ASP.NET Web API • SQL Server
+</h3>
+
+<p align="center">
+  <a href="mailto:mridulhasannn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</h1>
+  <a href="https://www.linkedin.com/in/mahamudulhasanm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-14910.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science graduate from Bangladesh and currently working as a **Junior Software Developer**.
+
+My main focus is building practical, scalable, and maintainable web applications using modern frontend and backend technologies. I work with **Angular, ASP.NET Web API, SQL Server**, and related tools for real-world business applications.
+
+- 🔭 Currently working on enterprise-level web applications  
+- 🌱 Improving my skills in **Angular, .NET, SQL Server, API design, and system performance**
+- 💬 Ask me about **Angular, JavaScript, .NET Web API, SQL Server, Firebase, MongoDB**
+- 🎯 Career goal: To grow as a strong full-stack software developer and work on impactful software systems
+- ⚡ Fun fact: I enjoy solving real-world problems through clean and practical code
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,javascript,typescript,html,css,bootstrap,materialui" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,firebase,mysql" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,c,java,javascript,typescript" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
+</p>
+
+---
+
+## 📌 What I’m Working On
+
+- Building and maintaining web application features  
+- Improving database query performance  
+- Learning better software architecture and clean coding practices  
+- Strengthening problem-solving skills for technical interviews  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mridul1x&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul1x&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul1x&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridul1x&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mridulhasannn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahamudulhasanm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<h3 align="center">
+  Thanks for visiting my profile!
+</h3>
