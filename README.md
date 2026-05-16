@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mahamudulhasanm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-14910.web.app/" target="_blank">
+  <a href="https://medul.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
@@ -66,27 +66,6 @@ My main focus is building practical, scalable, and maintainable web applications
 - Improving database query performance  
 - Learning better software architecture and clean coding practices  
 - Strengthening problem-solving skills for technical interviews  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mridul1x&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul1x&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul1x&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridul1x&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
