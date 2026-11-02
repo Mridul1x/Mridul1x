@@ -75,7 +75,7 @@ My main focus is building practical, scalable, and maintainable web applications
   <a href="mailto:mridulhasannn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/mahamudulhasanm/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahamudul-hasan-medul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
